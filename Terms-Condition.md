@@ -53,9 +53,8 @@ When you post, link or otherwise make available content to the Service, you gran
 
 Aside from our limited right to your content, you retain all of your rights to the content you post, link and otherwise make available on or through the Service.
 
-**[CUSTOMIZE THE FOLLOWING SECTION BASED ON YOUR DATA RETENTION PRACTICES.]**
 
-You can remove the content that you posted by deleting it. Once you delete your content, it will not appear on the Service, but copies of your deleted content may remain in our system or backups for some period of time. We will retain web server access logs for a maximum of **[TIME PERIOD]** and then delete them.
+You can remove the content that you posted by deleting it. Once you delete your content, it will not appear on the Service, but copies of your deleted content may remain in our system or backups for some period of time. We will retain web server access logs for a maximum of 24 hours and then delete them.
 
 You may not post, link and otherwise make available on or through the Service any of the following:
 
