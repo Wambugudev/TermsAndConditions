@@ -1,4 +1,4 @@
-# **[Kisiwa APP]** TERMS OF SERVICE
+# Kisiwa APP TERMS OF SERVICE
 
 Last Updated: **[22-03-2022]**
 
