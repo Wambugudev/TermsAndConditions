@@ -1,29 +1,29 @@
-# Kisiwa APP TERMS OF SERVICE
+# myskool TERMS OF SERVICE
 
 Last Updated: **[22-03-2022]**
 
-These terms of service ("Terms") apply to your access and use of Kisiwa Mobile App (the "Service"). Please read them carefully.
+These terms of service ("Terms") apply to your access and use of myskool Mobile App (the "Service"). Please read them carefully.
 
 ## Accepting these Terms
 
-If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing kisiwa.help@gmail.com.
+If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing myskool.help@gmail.com.
 
 ## Changes to these Terms
 
 We reserve the right to modify these Terms at any time. For instance, we may need to change these Terms if we come out with a new feature or for some other reason.
 
-Whenever we make changes to these Terms, the changes are effective IMMEDIATELY after we post such revised Terms (indicated by revising the date at the top of these Terms) or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised Terms (such as a click-through confirmation or acceptance button). It is your responsibility to check Kisiwa Mobile App for changes to these Terms.
+Whenever we make changes to these Terms, the changes are effective IMMEDIATELY after we post such revised Terms (indicated by revising the date at the top of these Terms) or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised Terms (such as a click-through confirmation or acceptance button). It is your responsibility to check myskool Mobile App for changes to these Terms.
 
 If you continue to use the Service after the revised Terms go into effect, then you have accepted the changes to these Terms.
 
 # Privacy Policy
 
-Kisiwa Mobile App takes your privacy seriously. To better protect your privacy Kisiwa Mobile App provide this privacy policy notice explaining the way your personal information is collected and used.
+myskool Mobile App takes your privacy seriously. To better protect your privacy myskool Mobile App provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
 
-This Kisiwa Mobile App track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
+This myskool Mobile App track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
 
 
 ## Cookies
@@ -118,8 +118,8 @@ These Terms constitute the entire agreement between you and Wambugu Harun Victor
 
 ## Feedback
 
-Please let us know what you think of the Service, these Terms and, in general, Kisiwa Mobile App. When you provide us with any feedback, comments or suggestions about the Service, these Terms and, in general, Kisiwa Mobile App, you irrevocably assign to us all of your right, title and interest in and to your feedback, comments and suggestions.
+Please let us know what you think of the Service, these Terms and, in general, myskool Mobile App. When you provide us with any feedback, comments or suggestions about the Service, these Terms and, in general, myskool Mobile App, you irrevocably assign to us all of your right, title and interest in and to your feedback, comments and suggestions.
 
 ## Questions & Contact Information
 
-Questions or comments about the Service may be directed to us at the email address kisiwa.help@gmail.com.
+Questions or comments about the Service may be directed to us at the email address myskool.help@gmail.com.
